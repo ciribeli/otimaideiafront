@@ -130,4 +130,569 @@
     </div>
   </div>
 </section>
+<section class="sessions">
+  <div class="container">
+    <div class="row">
+      <div class="title-experience">
+        <span class="back-title-experience">Sessions</span>
+        <h2>Sessions</h2>
+      </div>
+      <div class="content-sessions">
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>First session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-first-session-2.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In the first session, we will consider design thinking and its understanding as well as different models of design thinking and the design process, and we will better remember this process with various examples. We will also discuss problem solving techniques together and understand the concept of user experience and usability.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Second session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-second-session.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In the second session, we will discuss service design, first discussing “What is a service?” Then we practice how to create the right conditions for them in the long run to stay loyal to our product based on the actual needs of our audience and to create solutions that will reduce the hassle of the user in the short run. We are also going to create a way to measure the performance of our product so that we can ensure the quality of the design solution’s performance.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Third session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-first-session-2.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In the third session we will discuss the most important design phase, which is the initial research and review process. We will explore user experience research and user research methods. At the end of the session we will be able to build user personas as well as user scenarios and narrated user stories in the product.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Fourth Session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-fourth-session.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                Building experience is one of the key points in product management and design. But how does this experience come about? The experience is made by creating a unique feeling in the mind. In the fourth session, we will learn how to identify users’ behavior and motivate them as well as build stimuli to drive the minds of the target audience together.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Fifth meeting</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-first-session-2.png);"></div>
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-fifth-session.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                It’s time to get started.The fifth session is intended to capture the audiences’ minds and create a new experience for them, like a humorist, sculptor or painter.But with one big difference - and the difference is that we will solve their problems at the same time by targeting users with product design. The fifth session is actually the beginning of the user experience design process, where we will learn about the concepts of user-centered design and data-driven design.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Sixth Session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-sixth-session.png);"></div>
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-sixth-session-2.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                It’s time to get started.The fifth session is intended to capture the audiences’ minds and create a new experience for them, like a humorist, sculptor or painter.But with one big difference - and the difference is that we will solve their problems at the same time by targeting users with product design. The fifth session is actually the beginning of the user experience design process, where we will learn about the concepts of user-centered design and data-driven design.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Seventh Session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-seventh-session.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In the seventh session, we are in the world of product management. We will examine software companies’ structures as well as in-team and in-team interactions. In this session, we will look at the duties and characteristics of product team members as well as identify product strategies and learn about different software development methodologies. And finally, we’ll look at a product designer’s red line.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Eighth Session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-eighth-session.png);"></div>
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-eighth-session-2.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In this session, we will get our hands into the color, learn the basics of user interface design with colored hands, and learn about various interface design tools. We also explore the concepts and fundamentals of iconography and learn about testing the usability of icon design and finally learn the process of visualization in digital products from idea to implementation.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Ninth Session</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-eighth-session.png);"></div>
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-ninth-session.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In the ninth session we will continue to immerse ourselves in the world of color and image, identifying the elements of the interface and learning how to properly represent the data. We also remotely team up with Moslem Ebrahimi, a typeface designer, and look at the typography of digital products from the perspective of someone who has had a lifetime of concern for typefaces and Persian fonts.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-content-sessions">
+          <div class="top-item-content-sessions">
+            <div class="number-sessison">
+              <p>Tenth meeting</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-time"></div>
+              <p>Duration: 6 hour</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-calendar"></div>
+              <p>Date: November</p>
+            </div>
+            <div class="detail-session">
+              <div class="icon-sessions icon-player-black"></div>
+              <p>View video</p>
+            </div>
+          </div>
+          <div class="content-item-sessions">
+            <div class="list-imgs-item-sessions">
+                <div class="img-sessions" style="background: url(<?php bloginfo('template_directory'); ?>/img/img-eighth-session.png);"></div>
+            </div>
+            <div class="text-item-session">
+              <p>
+                In the 10th session we will start with the software and together we will learn what design software capabilities are and what ideas can be made with them and that they are not as complex as the cockpit!
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="rectangle-white rectangle-masters">
+        <div class="title-experience">
+          <span class="back-title-experience">Masters</span>
+          <h2>Masters</h2>
+        </div>
+        <div class="content-masters">
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/shervin.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Shervin Mashayekh</h2>
+              <p class="cargo-master">Additive Product Manager</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/kianoosh.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Kianoosh Keyghobadi</h2>
+              <p class="cargo-master">Product Manager at Digikala</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/hossein.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Hossein Vahdani</h2>
+              <p class="cargo-master">Content marketing specialist</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/ali.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Ali Babaei</h2>
+              <p class="cargo-master">Product design consultant</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/kiarash.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Kiarash Amalivand</h2>
+              <p class="cargo-master">Head of product at Ap</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/hesam.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Hesam Keramati</h2>
+              <p class="cargo-master">Product designer at Bazaar</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/hassan.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Hassan Hemati</h2>
+              <p class="cargo-master">Product designer at Alibaba</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/sheragem.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Sheragim Moradi</h2>
+              <p class="cargo-master">Marketing manager</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/sheragem.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Hadi Ebnodin</h2>
+              <p class="cargo-master">Service designer</p>
+            </div>
+          </div>
+
+          <div class="item-masters">
+            <div class="img-masters" style="background: url(<?php bloginfo('template_directory'); ?>/img/moslem.png);">
+              <div class="info-of-masters">
+                <div class="rede-social-master">
+                  <a href="#" class="icon-social-master icone-twitter"></a>
+                  <a href="#" class="icon-social-master icone-facebook"></a>
+                  <a href="#" class="icon-social-master icone-instagram"></a>
+                </div>
+                <a href="#" class="btn-about-master">
+                  <div class="tooltip-masters">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                  <p>About Master</p>
+                </a>
+              </div>
+            </div>
+            <div class="content-masters">
+              <h2 class="name-master">Moslem Ebrahimi</h2>
+              <p class="cargo-master">Typeface designer</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <?php get_footer(); ?>
