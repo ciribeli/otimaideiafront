@@ -468,7 +468,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Shervin Mashayekh</h2>
               <p class="cargo-master">Additive Product Manager</p>
             </div>
@@ -492,7 +492,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Kianoosh Keyghobadi</h2>
               <p class="cargo-master">Product Manager at Digikala</p>
             </div>
@@ -516,7 +516,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Hossein Vahdani</h2>
               <p class="cargo-master">Content marketing specialist</p>
             </div>
@@ -540,7 +540,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Ali Babaei</h2>
               <p class="cargo-master">Product design consultant</p>
             </div>
@@ -564,7 +564,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Kiarash Amalivand</h2>
               <p class="cargo-master">Head of product at Ap</p>
             </div>
@@ -588,7 +588,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Hesam Keramati</h2>
               <p class="cargo-master">Product designer at Bazaar</p>
             </div>
@@ -612,7 +612,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Hassan Hemati</h2>
               <p class="cargo-master">Product designer at Alibaba</p>
             </div>
@@ -636,7 +636,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Sheragim Moradi</h2>
               <p class="cargo-master">Marketing manager</p>
             </div>
@@ -660,7 +660,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Hadi Ebnodin</h2>
               <p class="cargo-master">Service designer</p>
             </div>
@@ -684,7 +684,7 @@
                 </a>
               </div>
             </div>
-            <div class="content-masters">
+            <div class="master-title">
               <h2 class="name-master">Moslem Ebrahimi</h2>
               <p class="cargo-master">Typeface designer</p>
             </div>
@@ -694,5 +694,190 @@
       </div>
     </div>
   </div>
+</section>
+<section class="faqs">
+  <div class="container">
+    <div class="row">
+      <div class="title-experience title-faq">
+        <span class="back-title-experience">FAQ</span>
+        <h2>Frequently Asked Questions</h2>
+      </div>
+      <div class="itens-faq">
+        <div id="accordion">
+          <div class="card">
+            <div class="card-header" id="headingOne">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                  Does this course need any special requirements?
+                </button>
+              </h5>
+            </div>
+
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+              <div class="card-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header" id="headingTwo">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  Who are the audiences of the product design period of the product factory?
+                </button>
+              </h5>
+            </div>
+            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+              <div class="card-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header" id="headingThree">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Is it possible to pay by installments?
+                </button>
+              </h5>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+              <div class="card-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header" id="heading4">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                  Can I start an internship after I finish the course?
+                </button>
+              </h5>
+            </div>
+            <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
+              <div class="card-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header" id="heading5">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                  What should I do after I finish the course?
+                </button>
+              </h5>
+            </div>
+            <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
+              <div class="card-body">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rectangle-white rectangle-course">
+        <div class="title-experience">
+          <span class="back-title-experience">Course fee</span>
+          <h2>Course fee</h2>
+        </div>
+
+        <div class="owl-carousel owl-theme" id="slide-course-fee">
+          <div class="item">
+            <div class="lado-1-course-fee">
+              <h2>What will be our achievements by participating in this course?</h2>
+              <div class="list-itens-course">
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Learn the requirements of a product designer from experienced professionals in the field.
+                  </p>
+                </div>
+
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Experience in-team work and product designer interactions within the real product team.
+                  </p>
+                </div>
+
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Experience working on projects with information and feature lists and real user recognition.
+                  </p>
+                </div>
+
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Possibility to take Adobe exams upon completion of course and upon registration.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="lado-2-course-fee">
+              <p class="price-old">4,000,000 Toman</p>
+              <p class="price-new">2,300,000 Toman</p>
+              <p class="text-pay">Possibility to pay periodic installment fee.</p>
+              <a href="#">Register</a>
+            </div>
+          </div>
+          <div class="item">
+            <div class="lado-1-course-fee">
+              <h2>What will be our achievements by participating in this course?</h2>
+              <div class="list-itens-course">
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Learn the requirements of a product designer from experienced professionals in the field.
+                  </p>
+                </div>
+
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Experience in-team work and product designer interactions within the real product team.
+                  </p>
+                </div>
+
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Experience working on projects with information and feature lists and real user recognition.
+                  </p>
+                </div>
+
+                <div class="item-course">
+                  <i class="icone-course"></i>
+                  <p class="text-course">
+                    Possibility to take Adobe exams upon completion of course and upon registration.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="lado-2-course-fee">
+              <p class="price-old">4,000,000 Toman</p>
+              <p class="price-new">2,300,000 Toman</p>
+              <p class="text-pay">Possibility to pay periodic installment fee.</p>
+              <a href="#">Register</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="obs-course">
+          <hr class="line-grey">
+          <p>Possibility of refund prior to the third session if the course quality is not satisfied.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </section>
 <?php get_footer(); ?>

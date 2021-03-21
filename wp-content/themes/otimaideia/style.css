@@ -4,6 +4,11 @@ button:focus {
     outline: 0px auto -webkit-focus-ring-color;
 }
 
+.btn.focus, .btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0rem transparent;
+}
+
 
 
 /***********************
@@ -99,7 +104,7 @@ PRODUCT DESIGNER
     box-shadow: 50px 50px 99px rgb(34 34 34 / 6%);
 }
 
-#slide-product-designer .item {
+.item {
     display: flex;
     flex-direction: column;
     flex-flow: wrap;
@@ -162,20 +167,27 @@ h2.ui-ux-back {
     margin-top: 50px;
 }
 
-#slide-product-designer .owl-nav {
+.owl-stage-outer {
+    position: relative;
+    z-index: 2;
+}
+
+.owl-nav {
     padding: 20px 0px;
     display: flex;
     flex-direction: column;
     flex-flow: wrap;
     justify-content: center;
+    z-index: 1;
 }
 
-#slide-product-designer .owl-prev span, #slide-product-designer .owl-next span {
+.owl-prev span, .owl-next span {
     font-size: 50px;
     line-height: 0px !important;
     height: 20px !important;
     display: block;
     margin: 0px 10px;
+    font-weight: 100;
 }
 
 @media (min-width: 1024px){
@@ -217,7 +229,7 @@ h2.ui-ux-back {
       width: 300px;
   }
 
-  #slide-product-designer .owl-nav {
+  .owl-nav {
       width: 113%;
       align-items: center;
       justify-content: space-between;
@@ -226,7 +238,7 @@ h2.ui-ux-back {
       top: 50%;
   }
 
-  #slide-product-designer .owl-prev span, #slide-product-designer .owl-next span {
+  .owl-prev span, .owl-next span {
       font-size: 150px;
       line-height: 0px !important;
       height: 50px !important;
@@ -704,8 +716,7 @@ SESSION
 MASTERS
 ***********************/
 .rectangle-white.rectangle-masters {
-    padding: 50px 70px;
-    min-height: 700px;
+    padding: 0px 15px;
     box-shadow: 0px 1px 99px rgb(34 34 34 / 10%);
 }
 
@@ -719,7 +730,7 @@ MASTERS
 }
 
 .item-masters {
-    width: 19%;
+    width: 100%;
     margin-top: 50px;
 }
 
@@ -727,10 +738,11 @@ MASTERS
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center !important;
-    width: 100%;
-    min-height: 190px;
+    width: 200px;
+    min-height: 200px;
     position: relative;
     border-radius: 20px;
+    margin: 0 auto;
 }
 
 .info-of-masters {
@@ -817,4 +829,234 @@ h2.name-master {
 p.cargo-master {
     font-size: 15px;
     line-height: 16px;
+}
+
+.master-title {
+    text-align: center;
+}
+
+@media (min-width: 1024px){
+  .rectangle-white.rectangle-masters {
+      padding: 50px 70px;
+      box-shadow: 0px 1px 99px rgb(34 34 34 / 10%);
+  }
+
+  .item-masters {
+      width: 19%;
+      margin-top: 50px;
+  }
+
+  .img-masters {
+      width: 100%;
+      min-height: 190px;
+  }
+
+  .master-title {
+    text-align: left;
+  }
+}
+
+/***********************
+FAQ
+***********************/
+.faqs {
+    background: #FAFAFA;
+    padding: 150px 15px 0px;
+}
+
+.back-title-experience.title-faq {
+    font-size: 120px;
+}
+
+.title-experience.title-faq h2 {
+    font-size: 22px;
+}
+
+.itens-faq {
+    width: 100%;
+    margin: 50px 0px;
+}
+
+.card {
+    margin: 20px 0px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 99px #d3d3d329;
+    border: 0px !important;
+}
+
+.card-header {
+    background-color: transparent;
+    border-bottom: 0px;
+}
+
+.itens-faq .btn.btn-link {
+    padding: 0px 50px 0px 0px;
+    color: black;
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    position: relative;
+}
+
+.itens-faq .btn-link:after {
+    content: "-";
+    display: inline-block;
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    right: 0;
+}
+
+.itens-faq .btn-link.collapsed:after {
+    content: "+";
+}
+
+@media (min-width:1024px){
+  .title-experience.title-faq h2 {
+      font-size: 25px;
+  }
+}
+
+
+
+/***********************
+COURSE FEE
+***********************/
+.rectangle-white.rectangle-course {
+    bottom: 0px;
+}
+
+.rectangle-white.rectangle-course .item {
+    justify-content: space-between;
+}
+
+.rectangle-white.rectangle-course .title-experience {
+    margin-bottom: 20px;
+}
+
+.lado-1-course-fee {
+    width: 100%;
+}
+
+.lado-1-course-fee h2 {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 40px;
+}
+
+.item-course {
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+i.icone-course {
+    background: #29D089;
+    width: 27px;
+    height: 27px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+p.text-course {
+    font-size: 16px;
+    line-height: 21px;
+    width: 80%;
+    margin: 0px;
+}
+
+.lado-2-course-fee {
+    width: 100%;
+    background: black;
+    border-radius: 20px;
+    padding: 30px 15px;
+    text-align: center;
+}
+
+p.price-old {
+    color: white;
+    font-size: 19px;
+    line-height: 26px;
+    text-decoration: line-through;
+    margin-bottom: 25px;
+}
+
+p.price-new {
+    font-size: 34px;
+    line-height: 46px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+p.text-pay {
+    font-size: 18px;
+    line-height: 24px;
+    color: white;
+}
+
+.lado-2-course-fee a {
+    background: #F36732;
+    border-radius: 12px;
+    padding: 10px 40px;
+    display: inline-block;
+    margin: 20px 0px 0px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.obs-course {
+    width: 100%;
+    margin-top: 30px;
+}
+
+hr.line-grey {
+    border-top: 1px solid rgb(0 0 0 / 8%);
+}
+
+.obs-course p {
+    font-size: 18px;
+    line-height: 25px;
+    color: rgb(0 0 0 / 49%);
+    text-align: center;
+    padding: 20px 0px 0px;
+}
+
+@media (min-width:1024px){
+  .rectangle-white.rectangle-course {
+      bottom: -100px;
+  }
+
+  .rectangle-white.rectangle-course .title-experience {
+      margin-bottom: 80px;
+  }
+
+  .lado-1-course-fee {
+      width: 50%;
+  }
+
+  .lado-1-course-fee h2 {
+      font-size: 25px;
+      line-height: 32px;
+  }
+
+  p.text-course {
+      width: 90%;
+  }
+
+  .lado-2-course-fee {
+      width: 45%;
+      padding: 50px;
+  }
+
 }
