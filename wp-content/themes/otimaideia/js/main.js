@@ -1,3 +1,9 @@
+jQuery('#openmenu').click(function(){
+  jQuery('#openmenu').toggleClass('show');
+  jQuery('.menu-desk').toggleClass('open-mobile');
+  jQuery('body').toggleClass('overhidden');
+})
+
 $('#slide-product-designer').owlCarousel({
     loop:true,
     nav:true,
@@ -15,6 +21,23 @@ $('#slide-product-designer').owlCarousel({
 })
 
 $('#slide-course-fee').owlCarousel({
+    loop:true,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
+
+
+$('#slide-projects').owlCarousel({
     loop:true,
     nav:true,
     responsive:{

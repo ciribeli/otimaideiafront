@@ -1,5 +1,19 @@
 <footer>
+  <div class="container">
+    <div class="row">
+      <div class="rede-social-footer">
+        <a href="#" target="_blank" class="icone-social icone-facebook"></a>
+        <a href="#" target="_blank" class="icone-social icone-twitter"></a>
+        <a href="#" target="_blank" class="icone-social icone-instagram"></a>
+      </div>
+      <div class="logo-footer">
 
+      </div>
+      <div class="contact-footer">
+        Contact Number: 0912-1234567
+      </div>
+    </div>
+  </div>
 </footer>
 
 <!--scripts-->

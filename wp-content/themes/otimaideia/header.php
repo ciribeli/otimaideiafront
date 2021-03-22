@@ -22,31 +22,39 @@
           <div class="menu-desk">
             <ul>
               <li>
-                <a href="#">Projects</a>
+                <a href="/#projects">Projects</a>
               </li>
               <li>
                 <a href="#">Partners</a>
               </li>
               <li>
-                <a href="#">FAQ</a>
+                <a href="/#faq">FAQ</a>
               </li>
               <li>
-                <a href="#">Masters</a>
+                <a href="/#masters">Masters</a>
               </li>
               <li>
-                <a href="#">Classes</a>
+                <a href="/#">Classes</a>
               </li>
               <li>
-                <a href="#">Course Experience</a>
+                <a href="/#experience">Course Experience</a>
               </li>
               <li>
-                <a href="#">About us</a>
+                <a href="/#about-us">About us</a>
               </li>
             </ul>
           </div>
           <div class="register-header">
             <a href="#" class="btn-register-header">Register</a>
           </div>
+          <div class="tooltip-menu-mobile">
+            <button id="openmenu" class="">
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+          </div>
+
         </div>
       </div>
     </header>
